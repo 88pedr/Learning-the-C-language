@@ -1,2 +1,2 @@
-# C_study
-estou tendo linguagem de programação 1, minha professo estar a ensinar a linguagem C
+# Estudo_da_Linguagem_C
+Estou cursando a disciplina de Linguagem de Programação I, na qual minha professora está ensinando a linguagem C
